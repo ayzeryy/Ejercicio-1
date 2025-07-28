@@ -1,3 +1,7 @@
+// Luis Eduardo Gutierrez Oliva
+// POO Sec. 10
+// Ejercicio 1, Sistema Eras Tour
+
 import java.util.Scanner;
 
 public class DriverProgram {
